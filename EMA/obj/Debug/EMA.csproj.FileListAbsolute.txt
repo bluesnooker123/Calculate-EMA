@@ -1,0 +1,9 @@
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\obj\Debug\EMA.Form1.resources
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\obj\Debug\EMA.Properties.Resources.resources
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\obj\Debug\EMA.csproj.GenerateResource.Cache
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\obj\Debug\EMA.csproj.CoreCompileInputs.cache
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\bin\Debug\EMA.exe.config
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\bin\Debug\EMA.exe
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\bin\Debug\EMA.pdb
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\obj\Debug\EMA.exe
+F:\Freelancer\Awarded\11_10\c#\Work\EMA\EMA\obj\Debug\EMA.pdb
